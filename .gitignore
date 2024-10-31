@@ -2,7 +2,7 @@
 .gitmodules
 .libdragon
 .DS*
-libdragon
+libdragon*
 build
 filesystem
 tiny3d
