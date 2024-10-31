@@ -1,5 +1,8 @@
 *.z64
 .gitmodules
 .libdragon
+.DS*
 libdragon
 build
+filesystem
+tiny3d
